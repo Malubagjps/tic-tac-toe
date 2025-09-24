@@ -140,6 +140,7 @@ body {
 .reset-btn:hover {
     background: var(--dark-navy);
     transform: translateY(-2px);
+    color: white;
     box-shadow: 0 5px 15px rgba(25, 24, 59, 0.2);
 }
 
