@@ -23,7 +23,11 @@ Play against a friend on the same computer and see who wins first!
 
 ## 📂 Project Structure
 TicTacToe/
+
 │── index.html # Main game UI
+
 │── style.css # Styling for the board
+
 │── script.js # Game logic
+
 │── README.md # Project documentation
